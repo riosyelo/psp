@@ -1,0 +1,176 @@
+{
+    "deportistas": [
+        {
+                "id": "1",
+                "name": "Pau Gasol",
+                "deporte": "Baloncesto",
+                "imagen": "https://static01.heraldo.es/uploads/imagenes/8col/2016/08/12/_espaanigeria21296052_132169a7.jpg?b6ca96750910a9970200d632fbe33762",
+                "fecha_nac" : "06/07/1980",
+                "nacionalidad" : "Española",
+				"web" : "https://es.wikipedia.org/wiki/Pau_Gasol",
+                "palmarés": [{
+                    "año": "2006",
+                    "trofeo": "Campeón del mundo"
+                },{
+                    "año": "2009",
+                    "trofeo": "Campeón de Europa"
+                }]
+        },
+		
+		{
+                "id": "2",
+                "name": "Fernando Alonso",
+                "deporte": "Automovilismo",
+                "imagen": "https://okdiario.com/img/2018/07/09/alonso-655x368.jpg",
+                "fecha_nac" : "29/07/1981",
+                "nacionalidad" : "Española",
+				"web" : "https://es.wikipedia.org/wiki/Fernando_Alonso",
+                "palmarés": [{
+                    "año": "2006",
+                    "trofeo": "Campeón mundial de Formula 1"
+                },{
+                    "año": "2007",
+                    "trofeo": "Campeón mundial de Formula 1"
+                }]
+        },
+		
+		{
+                "id": "3",
+                "name": "Rafael Nada",
+                "deporte": "Tenis",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Paris-FR-75-open_de_tennis-2-6--17-Roland_Garros-Rafael_Nadal-13.jpg/245px-Paris-FR-75-open_de_tennis-2-6--17-Roland_Garros-Rafael_Nadal-13.jpg",
+                "fecha_nac" : "03/06/1986",
+                "nacionalidad" : "Española",
+				"web" : "https://es.wikipedia.org/wiki/Rafael_Nadal",
+                "palmarés": [{
+                    "año": "2008",
+                    "trofeo": "Oro en juegos olimpicos"
+                },{
+                    "año": "2011",
+                    "trofeo": "Campeón copa Davis"
+                }]
+        },
+		
+		{
+                "id": "4",
+                "name": "Tiger Woods",
+                "deporte": "Golf",
+                "imagen": "https://usatgolfweek.files.wordpress.com/2018/08/tiger-woods-pga-championship-highlights-sunday-e1534705656333.jpg?w=1000&h=600&crop=1",
+                "fecha_nac" : "30/12/1975",
+                "nacionalidad" : "Estadounidense",
+				"web" : "https://es.wikipedia.org/wiki/Tiger_Woods",
+                "palmarés": [{
+                    "año": "2002",
+                    "trofeo": "Abierto de EEUU"
+                },{
+                    "año": "2007",
+                    "trofeo": "Campeón de la PGA"
+                }]
+        },
+		
+		{
+                "id": "5",
+                "name": "Roger Federer",
+                "deporte": "Tenis",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Federer_RG15_%2855%29_%2819307817335%29.jpg/245px-Federer_RG15_%2855%29_%2819307817335%29.jpg",
+                "fecha_nac" : "08/08/1981",
+                "nacionalidad" : "Suizo",
+				"web" : "https://es.wikipedia.org/wiki/Roger_Federer",
+                "palmarés": [{
+                    "año": "2008",
+                    "trofeo": "Campeon Juegos olimpicos por parejas"
+                },{
+                    "año": "2014",
+                    "trofeo": "Campeón de la copa Davis"
+                }]
+        },
+		
+		{
+                "id": "6",
+                "name": "Lionel Messi",
+                "deporte": "Futbol",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Messi_vs_Nigeria_2018.jpg/245px-Messi_vs_Nigeria_2018.jpg",
+                "fecha_nac" : "24/06/1987",
+                "nacionalidad" : "Argentina",
+				"web" : "https://es.wikipedia.org/wiki/Lionel_Messi",
+                "palmarés": [{
+                    "año": "2008",
+                    "trofeo": "Campeon Juegos olimpicos"
+                },{
+                    "año": "2015",
+                    "trofeo": "Campeón de Champions League"
+                }]
+        },
+		
+		{
+                "id": "7",
+                "name": "Antoine Griezmann",
+                "deporte": "fútbol",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Antoine_Griezmann_World_Cup_Trophy.jpg/245px-Antoine_Griezmann_World_Cup_Trophy.jpg",
+                "fecha_nac" : "12/07/1998",
+                "nacionalidad" : "francés",
+				"web" : "https://es.wikipedia.org/wiki/Antoine_Griezmann",
+                "palmarés": [{
+                    "año": "2018",
+                    "trofeo": "Campeón de Europa"
+                },{
+                    "año": "2017",
+                    "trofeo": "Campeón de Champions League"
+                }]
+        },
+		
+		{
+                "id": "8",
+                "name": "Garri Kaspárov",
+                "deporte": "Ajedrez",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kasparov-36.jpg/220px-Kasparov-36.jpg",
+                "fecha_nac" : "13/04/1963",
+                "nacionalidad" : "Croata",
+				"web" : "https://es.wikipedia.org/wiki/Garri_Kasp%C3%A1rov",
+                "palmarés": [{
+                    "año": "1985",
+                    "trofeo": "Campeón del Mundo"
+                },{
+                    "año": "2005",
+                    "trofeo": "Campeón del Mundo"
+                }]
+        },
+		
+		{
+                "id": "9",
+                "name": "Javier Fernández López",
+                "deporte": "Patinaje sobre hielo",
+                "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2011_Grand_Prix_Final_Javier_FERNANDEZ.jpg/245px-2011_Grand_Prix_Final_Javier_FERNANDEZ.jpg",
+                "fecha_nac" : "15/04/1991",
+                "nacionalidad" : "Española",
+				"web" : "https://es.wikipedia.org/wiki/Javier_Fern%C3%A1ndez_L%C3%B3pez",
+                "palmarés": [{
+                    "año": "2015",
+                    "trofeo": "Campeón del Mundo"
+                },{
+                    "año": "2016",
+                    "trofeo": "Campeón del Mundo"
+                }]
+        },
+		
+		{
+                "id": "10",
+                "name": "Iker Arretxe",
+                "deporte": "Pelota vasca",
+                "imagen": "http://gara.naiz.eus/Repository/Imagenes/Pub_3/Issue_4443/p039_f02_444x444.jpg",
+                "fecha_nac" : "05/06/1985",
+                "nacionalidad" : "Española",
+				"web" : "https://es.wikipedia.org/wiki/Iker_Arretxe",
+                "palmarés": [{
+                    "año": "2006",
+                    "trofeo": "Campeón del Mundo por parejas"
+                },{
+                    "año": "2010",
+                    "trofeo": "Campeón del Mundo por parejas"
+                }]
+        }
+		
+		
+    ]
+
+}
