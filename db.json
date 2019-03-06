@@ -1,5 +1,4 @@
-{
-    "deportistas": [
+[
         {
                 "id": "1",
                 "name": "Pau Gasol",
@@ -168,9 +167,5 @@
                     "año": "2010",
                     "trofeo": "Campeón del Mundo por parejas"
                 }]
-        }
-		
-		
+        }	
     ]
-
-}
