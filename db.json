@@ -1,5 +1,4 @@
-{
-	"deportistas":[
+[
         {
                 "id": "1",
                 "name": "Pau Gasol",
@@ -100,4 +99,3 @@
 		"web" : "https://es.wikipedia.org/wiki/Iker_Arretxe"
         }	
     ]
-}
